@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="47c86199-890c-42e4-b5e2-2b6e71556b64" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="190" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VtX1pvqV5RTBQdEpP19xFZQjaJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/org/testerbarbara/pf/pages" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\amine\IdeaProjects\SeleniumBasic\src\org\testerbarbara" />
+      <recent name="C:\Users\amine\IdeaProjects\SeleniumBasic\src\org\testerbarbara\avanzado" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\amine\IdeaProjects\SeleniumBasic\src\org\testerbarbara\pf\pages" />
+      <recent name="C:\Users\amine\IdeaProjects\SeleniumBasic\src\org\testerbarbara\pf" />
+      <recent name="C:\Users\amine\IdeaProjects\SeleniumBasic" />
+      <recent name="C:\Users\amine\IdeaProjects\SeleniumBasic\drivers" />
+      <recent name="C:\Users\amine\IdeaProjects\SeleniumBasic\Lib\selenium-3.141.59" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.testerbarbara.pf.tests" />
+      <recent name="org.testerbarbara.pf.pages.tests" />
+      <recent name="org.testerbarbara.basico" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.testerbarbara.basico" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.PdfEmail">
+    <configuration name="C:/Users/amine/IdeaProjects/SeleniumBasic/ItestContext.xml" type="TestNG" nameIsGenerated="true">
+      <module name="SeleniumBasic" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/ItestContext.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PdfEmail (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumBasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.testerbarbara.reports.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.testerbarbara.reports" />
+      <option name="MAIN_CLASS_NAME" value="org.testerbarbara.reports.PdfEmail" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PdfEmail (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumBasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.testerbarbara.reports.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.testerbarbara.reports" />
+      <option name="MAIN_CLASS_NAME" value="org.testerbarbara.reports.PdfEmail" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PdfEmail (4)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumBasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.testerbarbara.reports.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.testerbarbara.reports" />
+      <option name="MAIN_CLASS_NAME" value="org.testerbarbara.reports.PdfEmail" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PdfEmail" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumBasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.testerbarbara.reports.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.testerbarbara.reports" />
+      <option name="MAIN_CLASS_NAME" value="org.testerbarbara.reports.PdfEmail" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PdfEmail.testThree" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumBasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.testerbarbara.reports.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.testerbarbara.reports" />
+      <option name="MAIN_CLASS_NAME" value="org.testerbarbara.reports.PdfEmail" />
+      <option name="METHOD_NAME" value="testThree" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.C:/Users/amine/IdeaProjects/SeleniumBasic/ItestContext.xml" />
+      <item itemvalue="TestNG.PdfEmail" />
+      <item itemvalue="TestNG.PdfEmail.testThree" />
+      <item itemvalue="TestNG.PdfEmail (4)" />
+      <item itemvalue="TestNG.PdfEmail (1)" />
+      <item itemvalue="TestNG.PdfEmail (2)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.PdfEmail" />
+        <item itemvalue="TestNG.PdfEmail (2)" />
+        <item itemvalue="TestNG.PdfEmail (1)" />
+        <item itemvalue="TestNG.PdfEmail.testThree" />
+        <item itemvalue="TestNG.PdfEmail (4)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47c86199-890c-42e4-b5e2-2b6e71556b64" name="Default Changelist" comment="" />
+      <created>1578073155977</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578073155977</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="392" y="0" width="596" height="728" key="#C:/Users/amine/IdeaProjects/SeleniumBasic/ItestContext.xml" timestamp="1584568857427">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="392" y="0" width="596" height="728" key="#C:/Users/amine/IdeaProjects/SeleniumBasic/ItestContext.xml/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1584568857427" />
+    <state x="275" y="23" key="#Console" timestamp="1585789261180">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="23" key="#Console/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1585789261180" />
+    <state x="275" y="23" key="#Inspections" timestamp="1585675625076">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="23" key="#Inspections/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1585675625076" />
+    <state x="275" y="23" key="#Notifications" timestamp="1584567354509">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="23" key="#Notifications/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1584567354509" />
+    <state x="272" y="5" key="#Project_Structure" timestamp="1585800175135">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="272" y="5" key="#Project_Structure/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1585800175135" />
+    <state x="392" y="12" key="#RegisterUserTest" timestamp="1587173066174">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="392" y="12" key="#RegisterUserTest/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1587173066174" />
+    <state x="275" y="23" key="#Servers" timestamp="1584567255185">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="23" key="#Servers/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1584567255185" />
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584569141072">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1584569141072" />
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1587793926286">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1587793926286" />
+    <state x="377" y="168" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585805819695">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="377" y="168" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1585805819695" />
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1585800295599">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1585800295599" />
+    <state x="406" y="54" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1587271189493">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="406" y="54" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1587271189493" />
+    <state x="413" y="112" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1585696752573">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="112" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1585696752573" />
+    <state x="434" y="62" key="DetectedRootsChooserDialog" timestamp="1585679710908">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="434" y="62" key="DetectedRootsChooserDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1585679710908" />
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1585793475462">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1585793475462" />
+    <state width="1215" height="125" key="GridCell.Tab.0.bottom" timestamp="1587937953302">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="211" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1584569309813" />
+    <state width="1215" height="119" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1587842491905" />
+    <state width="1215" height="125" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587937953302" />
+    <state width="1215" height="125" key="GridCell.Tab.0.center" timestamp="1587937953301">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="211" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1584569309812" />
+    <state width="1215" height="119" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1587842491905" />
+    <state width="1215" height="125" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587937953301" />
+    <state width="1215" height="125" key="GridCell.Tab.0.left" timestamp="1587937953301">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="211" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1584569309812" />
+    <state width="1215" height="119" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1587842491905" />
+    <state width="1215" height="125" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587937953301" />
+    <state width="1215" height="125" key="GridCell.Tab.0.right" timestamp="1587937953301">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="211" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1584569309812" />
+    <state width="1215" height="119" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1587842491905" />
+    <state width="1215" height="125" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587937953301" />
+    <state width="1323" height="410" key="GridCell.Tab.1.bottom" timestamp="1587180301799">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="410" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1587180301799" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584384061729" />
+    <state width="1323" height="410" key="GridCell.Tab.1.center" timestamp="1587180301798">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="410" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1587180301798" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1584384061729" />
+    <state width="1323" height="410" key="GridCell.Tab.1.left" timestamp="1587180301798">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="410" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1587180301798" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1584384061729" />
+    <state width="1323" height="410" key="GridCell.Tab.1.right" timestamp="1587180301799">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="410" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1587180301799" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1584384061729" />
+    <state x="213" y="20" key="Maven.ArtifactSearchDialog" timestamp="1587683728224">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="20" key="Maven.ArtifactSearchDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1587683728224" />
+    <state x="184" y="8" key="SettingsEditor" timestamp="1585698393226">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="8" key="SettingsEditor/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1584567811352" />
+    <state x="184" y="8" key="SettingsEditor/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1585698393226" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1587791007847">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1584751592929" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1587791007847" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585075935687" />
+    <state x="387" y="258" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1584381745999">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="387" y="258" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.728@0.0.1366.728" timestamp="1584381745999" />
+    <state x="342" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1583076553752">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="342" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1583076553752" />
+    <state x="65" y="0" key="new project wizard" timestamp="1587429436872">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1587429436872" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1587440655143">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1587440655143" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SeleniumBasic$Test001.ic" NAME="Test001 Coverage Results" MODIFIED="1578422441141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.testerbarbara.basico.*</FILTER>
+    </SUITE>
+  </component>
+</project>
