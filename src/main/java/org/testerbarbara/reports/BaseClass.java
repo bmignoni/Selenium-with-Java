@@ -89,6 +89,8 @@ public class BaseClass {
             System.err.println("Problems with email address: " + e.getMessage());
         } catch (MessagingException e) {
             System.err.println("Could not connect to SMTP host, review your host and port " + e.getMessage());
+            // la consola tira el siguiente error:
+            // review your host and port Could not connect to SMTP host: smtp.gmail.com, port: 465, response: -1
         }
     }
 }
