@@ -1,0 +1,55 @@
+Opening webdite: http://healthunify.com/bmicalculator/
+Entering weight
+Selecting Kilograms
+Selecting height in feet
+Selecting height in inchs
+Clicking on Calculate
+SI Unit = 27.46
+US Unit = 27.92
+UK Unit = 174.37
+Description: Your category is Overweight
+Browser closed!
+2020-04-09 01:36:53 INFO  LogsTest:31 - Opening webdite: http://healthunify.com/bmicalculator/
+2020-04-09 01:36:53 INFO  LogsTest:48 - Entering weight
+2020-04-09 01:37:04 INFO  LogsTest:51 - Selecting Kilograms
+2020-04-09 01:37:04 INFO  LogsTest:54 - Selecting height in feet
+2020-04-09 01:37:04 INFO  LogsTest:57 - Selecting height in inchs
+2020-04-09 01:37:04 INFO  LogsTest:60 - Clicking on Calculate
+2020-04-09 01:37:05 INFO  LogsTest:68 - SI Unit = 27.46
+2020-04-09 01:37:05 INFO  LogsTest:69 - US Unit = 27.92
+2020-04-09 01:37:05 INFO  LogsTest:70 - UK Unit = 174.37
+2020-04-09 01:37:05 INFO  LogsTest:71 - Description: Your category is Overweight
+2020-04-09 01:37:06 INFO  LogsTest:42 - Browser closed!
+2020-04-09 01:45:49 INFO  LogsTest:31 - Opening webdite: http://healthunify.com/bmicalculator/
+2020-04-09 01:45:49 INFO  LogsTest:48 - Entering weight
+2020-04-09 01:45:52 INFO  LogsTest:51 - Selecting Kilograms
+2020-04-09 01:45:52 INFO  LogsTest:54 - Selecting height in feet
+2020-04-09 01:45:52 INFO  LogsTest:57 - Selecting height in inchs
+2020-04-09 01:45:52 INFO  LogsTest:60 - Clicking on Calculate
+2020-04-09 01:45:52 INFO  LogsTest:68 - SI Unit = 27.46
+2020-04-09 01:45:52 INFO  LogsTest:69 - US Unit = 27.92
+2020-04-09 01:45:52 INFO  LogsTest:70 - UK Unit = 174.37
+2020-04-09 01:45:52 INFO  LogsTest:71 - Description: Your category is Overweight
+2020-04-09 01:45:53 INFO  LogsTest:42 - Browser closed!
+2020-04-09 01:47:48 INFO  LogsTest:31 - Opening webdite: http://healthunify.com/bmicalculator/
+2020-04-09 01:47:48 INFO  LogsTest:48 - Entering weight
+2020-04-09 01:47:48 INFO  LogsTest:51 - Selecting Kilograms
+2020-04-09 01:47:48 INFO  LogsTest:54 - Selecting height in feet
+2020-04-09 01:47:48 INFO  LogsTest:57 - Selecting height in inchs
+2020-04-09 01:47:48 INFO  LogsTest:60 - Clicking on Calculate
+2020-04-09 01:47:49 INFO  LogsTest:68 - SI Unit = 27.46
+2020-04-09 01:47:49 INFO  LogsTest:69 - US Unit = 27.92
+2020-04-09 01:47:49 INFO  LogsTest:70 - UK Unit = 174.37
+2020-04-09 01:47:49 INFO  LogsTest:71 - Description: Your category is Overweight
+2020-04-09 01:47:50 INFO  LogsTest:42 - Browser closed!
+2020-04-09 01:50:33 INFO  LogsTest:31 - Opening webdite: http://healthunify.com/bmicalculator/
+2020-04-09 01:50:33 INFO  LogsTest:48 - Entering weight
+2020-04-09 01:50:39 INFO  LogsTest:51 - Selecting Kilograms
+2020-04-09 01:50:39 INFO  LogsTest:54 - Selecting height in feet
+2020-04-09 01:50:40 INFO  LogsTest:57 - Selecting height in inchs
+2020-04-09 01:50:40 INFO  LogsTest:60 - Clicking on Calculate
+2020-04-09 01:50:40 INFO  LogsTest:68 - SI Unit = 27.46
+2020-04-09 01:50:40 INFO  LogsTest:69 - US Unit = 27.92
+2020-04-09 01:50:40 INFO  LogsTest:70 - UK Unit = 174.37
+2020-04-09 01:50:40 INFO  LogsTest:71 - Description: Your category is Overweight
+2020-04-09 01:50:41 INFO  LogsTest:42 - Browser closed!
